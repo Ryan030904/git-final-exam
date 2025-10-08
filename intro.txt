@@ -13,3 +13,10 @@ Kỹ năng:
 - Lập trình Python và JavaScript
 - Quản lý mã nguồn với Git
 - Kiến thức cơ bản về cơ sở dữ liệu SQL
+
+Kế hoạch học tập:
+1. Hoàn thiện kiến thức Git nâng cao: rebase, cherry-pick, và workflow nhóm.
+2. Học sâu về JavaScript (ES6+), Node.js và React trong 3 tháng tới.
+3. Thực hành xây dựng dự án nhỏ hàng tuần để củng cố kiến thức.
+4. Nghiên cứu và áp dụng test-driven development (TDD) trong các bài tập.
+5. Học thêm về cơ sở dữ liệu NoSQL và tối ưu truy vấn.
