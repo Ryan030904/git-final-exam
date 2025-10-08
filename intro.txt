@@ -1,22 +1,25 @@
+Xin ch‡o, tÙi l‡ Nguy?n Tr?ng QuÌ
 Hello, this is Nguy?n Tr?ng QuÌ
-T√¥i l√† Nguy·ªÖn Tr·ªçng Qu√≠, sinh vi√™n chuy√™n ng√†nh C√¥ng ngh·ªá th√¥ng tin.
-T√¥i th√≠ch h·ªçc h·ªèi c√°c c√¥ng ngh·ªá m·ªõi v√† tham gia d·ª± √°n nh√≥m.
-T√¥i c√≥ th√°i ƒë·ªô l√†m vi·ªác chƒÉm ch·ªâ, c·∫©n th·∫≠n v√† c·∫ßu ti·∫øn.
-M·ª•c ti√™u ngh·ªÅ nghi·ªáp l√† tr·ªü th√†nh l·∫≠p tr√¨nh vi√™n full-stack.
+T+¶i l+· Nguyﬂ+‡n Trﬂ+Ïng Qu+°, sinh vi+¨n chuy+¨n ng+·nh C+¶ng nghﬂ+Á th+¶ng tin.
+T+¶i th+°ch hﬂ+Ïc hﬂ+≈i c+Ìc c+¶ng nghﬂ+Á mﬂ+¢i v+· tham gia dﬂ+¶ +Ìn nh+¶m.
+T+¶i c+¶ th+Ìi -Êﬂ+÷ l+·m viﬂ+Ác ch-‚m chﬂ+Î, cﬂ¶¨n thﬂ¶°n v+· cﬂ¶∫u tiﬂ¶+n.
+Mﬂ+—c ti+¨u nghﬂ+¸ nghiﬂ+Áp l+· trﬂ+É th+·nh lﬂ¶°p tr+ºnh vi+¨n full-stack.
 
-S·ªü th√≠ch:
-- L·∫≠p tr√¨nh
-- ƒê·ªçc s√°ch k·ªπ thu·∫≠t
-- Ch∆°i c·∫ßu l√¥ng
+Sﬂ+É th+°ch:
+- Lﬂ¶°p tr+ºnh
+- -…ﬂ+Ïc s+Ìch kﬂ+¶ thuﬂ¶°t
+- Ch¶Ìi cﬂ¶∫u l+¶ng
 
-K·ªπ nƒÉng:
-- L·∫≠p tr√¨nh Python v√† JavaScript
-- Qu·∫£n l√Ω m√£ ngu·ªìn v·ªõi Git
-- Ki·∫øn th·ª©c c∆° b·∫£n v·ªÅ c∆° s·ªü d·ªØ li·ªáu SQL
+Kﬂ+¶ n-‚ng:
+- Lﬂ¶°p tr+ºnh Python v+· JavaScript
+- Quﬂ¶˙n l++ m+˙ nguﬂ+Ùn vﬂ+¢i Git
+- Kiﬂ¶+n thﬂ+¨c c¶Ì bﬂ¶˙n vﬂ+¸ c¶Ì sﬂ+É dﬂ+ª liﬂ+Áu SQL
 
-K·∫ø ho·∫°ch h·ªçc t·∫≠p:
-1. Ho√†n thi·ªán ki·∫øn th·ª©c Git n√¢ng cao: rebase, cherry-pick, v√† workflow nh√≥m.
-2. H·ªçc s√¢u v·ªÅ JavaScript (ES6+), Node.js v√† React trong 3 th√°ng t·ªõi.
-3. Th·ª±c h√†nh x√¢y d·ª±ng d·ª± √°n nh·ªè h√†ng tu·∫ßn ƒë·ªÉ c·ªßng c·ªë ki·∫øn th·ª©c.
-4. Nghi√™n c·ª©u v√† √°p d·ª•ng test-driven development (TDD) trong c√°c b√†i t·∫≠p.
-5. H·ªçc th√™m v·ªÅ c∆° s·ªü d·ªØ li·ªáu NoSQL v√† t·ªëi ∆∞u truy v·∫•n.
+Kﬂ¶+ hoﬂ¶Ìch hﬂ+Ïc tﬂ¶°p:
+1. Ho+·n thiﬂ+Án kiﬂ¶+n thﬂ+¨c Git n+Ûng cao: rebase, cherry-pick, v+· workflow nh+¶m.
+2. Hﬂ+Ïc s+Ûu vﬂ+¸ JavaScript (ES6+), Node.js v+· React trong 3 th+Ìng tﬂ+¢i.
+3. Thﬂ+¶c h+·nh x+Ûy dﬂ+¶ng dﬂ+¶ +Ìn nhﬂ+≈ h+·ng tuﬂ¶∫n -Êﬂ+‚ cﬂ+∫ng cﬂ+Ê kiﬂ¶+n thﬂ+¨c.
+4. Nghi+¨n cﬂ+¨u v+· +Ìp dﬂ+—ng test-driven development (TDD) trong c+Ìc b+·i tﬂ¶°p.
+5. Hﬂ+Ïc th+¨m vﬂ+¸ c¶Ì sﬂ+É dﬂ+ª liﬂ+Áu NoSQL v+· tﬂ+Êi ¶¶u truy vﬂ¶—n.
+
+Conflict resolved on 08/10/2025
