@@ -1,2 +1,0 @@
-- Tôi c?m th?y Git giúp ki?m soát phiên b?n t?t hon.
-- Git h? tr? ph?i h?p nhóm hi?u qu? qua pull/merge.
