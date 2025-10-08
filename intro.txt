@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:
+Tôi là Nguyễn Trọng Quí, sinh viên chuyên ngành Công nghệ thông tin.
+Tôi thích học hỏi các công nghệ mới và tham gia dự án nhóm.
+Tôi có thái độ làm việc chăm chỉ, cẩn thận và cầu tiến.
+Mục tiêu nghề nghiệp là trở thành lập trình viên full-stack.
+
+Sở thích:
+- Lập trình
+- Đọc sách kỹ thuật
+- Chơi cầu lông
+
+Kỹ năng:
+- Lập trình Python và JavaScript
+- Quản lý mã nguồn với Git
+- Kiến thức cơ bản về cơ sở dữ liệu SQL
